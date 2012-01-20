@@ -16,6 +16,6 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="not_applied">USB storage mounted</string>
-    <string name="notification_title">Usb storage mounted</string>
+    <string name="notification_title">Usb storage mounted at /media/usb</string>
     <string name="notification_text">Touch for storage settings.</string>
 </resources>
